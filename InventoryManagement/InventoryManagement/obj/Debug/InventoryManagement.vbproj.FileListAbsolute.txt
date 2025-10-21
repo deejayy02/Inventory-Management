@@ -1,0 +1,11 @@
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.vbproj.AssemblyReference.cache
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.ChangePinForm.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.CheckoutCtrl.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.editform.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.HistoryCtrl.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.InventoryControl.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.LoginForm.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.MainMenuForm.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.Resources.resources
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.vbproj.GenerateResource.cache
+C:\Users\Ced\Source\Repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.vbproj.CoreCompileInputs.cache
